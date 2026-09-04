@@ -1,11 +1,12 @@
 <h1 align="center">Carlos Miguel Pienda</h1><div align="center">
+    <br />
     <picture>
         <img src="./assets/programming-banner.png" alt="Programming Banner">
     </picture>
 </div>
 
----
-
+<h2 align="center"></h2>
+<br />
 <div align="center">
   <img src="https://github-readme-stats-iging.vercel.app/api/top-langs?username=carlospineda-git&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=8&order=2&bg_color=15131C&text_color=C1B1FF&border_color=322D5B&hide_border=true&border_radius=16" height="165" alt="Carlos's Top Languages" />
 
@@ -17,8 +18,18 @@
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlospineda-git&theme=material-palenight&bg_color=15131C&text_color=ffffff&area=true&order=5&hide_title=true&hide_border=true&radius=16" height="240" alt="Carlos's Contribution Graph" />
 
+<h2 align="center"></h2>
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-15131C?style=for-the-badge&logo=html5&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/CSS3-15131C?style=for-the-badge&logo=css3&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/JavaScript-15131C?style=for-the-badge&logo=javascript&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/Python-15131C?style=for-the-badge&logo=python&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/Java-15131C?style=for-the-badge&logo=openjdk&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/C%2B%2B-15131C?style=for-the-badge&logo=cplusplus&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/Shell-15131C?style=for-the-badge&logo=gnubash&logoColor=C693EA" />
+  <img src="https://img.shields.io/badge/Git-15131C?style=for-the-badge&logo=git&logoColor=C693EA" />
+  <img src="https://img.shields.io/badge/GitHub-15131C?style=for-the-badge&logo=github&logoColor=C1B1FF" />
+  <img src="https://img.shields.io/badge/VS%20Code-15131C?style=for-the-badge&logo=visualstudiocode&logoColor=C693EA" />
 </div>
-
----
