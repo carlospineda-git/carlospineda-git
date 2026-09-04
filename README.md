@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Miguel Pienda</h1><div align="center">
     <br />
     <picture>
-        <img src="./assets/programming-banner.png" alt="Programming Banner">
+        <img src="./assets/1788481568108.jpg" alt="Programming Banner">
     </picture>
 </div>
 
