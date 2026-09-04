@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <img src="https://github-readme-stats-iging.vercel.app/api/top-langs?username=carlospineda-git&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=8&order=2&bg_color=15131C&text_color=C1B1FF&border_color=322D5B&hide_border=true&border_radius=16" height="165" alt="Carlos's Top Languages" />
-
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlospineda-git&theme=material-palenight&currStreakNum=ffffff&background=15131C&border=40317A&currStreakLabel=C1B1FF&fire=FF6B00&ring=C693EA&dates=C1B1FF&sideNums=ffffff&sideLabels=C1B1FF&stroke=322D5B&hide_border=true&border_radius=16" height="160" alt="Carlos's GitHub Streak" />
 
 <br />
